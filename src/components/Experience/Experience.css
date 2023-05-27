@@ -1,0 +1,49 @@
+.experience-main-container{
+    padding: 50px 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.experience-heading{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+    font-size: 1.3rem;
+    font-weight: bolder;
+    color: #A855F7;
+}
+
+img{
+    width: 100%;
+    border-radius: 8px;
+}
+
+
+.experience-description-1{
+    background-color: #242933;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 15px;
+}
+
+.experience-description-1 h1{
+
+}
+
+
+.experience-description-1 li{
+   
+    margin: 20px;
+}
+
+.experience-description-2 {
+    background-color: #242933;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 15px;
+}
+
+.experience-description-2 li{
+   
+    margin: 20px;
+}
